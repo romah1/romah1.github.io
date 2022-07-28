@@ -4,7 +4,9 @@
         "details": [
             {
                 "appID": "PGB36VEQ8D.ru.yandex.mobyandexios-15820.vegetables.develop",
-                "paths": [ "should-open" ]
+                "paths": [ 
+                    "/should-open"
+                 ]
             }
         ]
     }
